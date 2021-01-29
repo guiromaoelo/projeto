@@ -9,3 +9,5 @@ const fibonacci = num => {
     }
     return fibonacci(num - 1) + fibonacci(num - 2)
 }
+
+Está muito calor no dia de hoje!
