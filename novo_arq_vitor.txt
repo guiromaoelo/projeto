@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Quindim sai de cima do teclado
 Agora acho que vai dar ruim
+=======
+Arquivo de teste
+>>>>>>> commit 1 branch
