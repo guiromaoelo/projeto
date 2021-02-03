@@ -11,3 +11,5 @@ const fibonacci = num => {
 }
 
 Está muito calor no dia de hoje!
+
+Commits novos aqui!
